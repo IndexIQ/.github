@@ -1,12 +1,5 @@
-## Hi there 👋
+# IndexIQ
+**Momentum-Based Quantitative Trading Bot**  
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## About IndexIQ  
+IndexIQ is an **automated trading bot** that leverages a refined **quantitative model** to optimize trading decisions. Built on a foundation of **market data**, IndexIQ dynamically adjusts to market trends in real time.
